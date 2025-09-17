@@ -1,2 +1,2 @@
 # testing-public-repo
-Testing bro
+RELEASE 1
